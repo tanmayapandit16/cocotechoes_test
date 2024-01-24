@@ -9,5 +9,7 @@ data is created compute and output the following.
 1. For each month the units sold and the amount
 2. For each quarter the units sold and the amount.
 3. The quarter which had the maximum sale in terms of amount.
-4. The quarter that had the maximum sales in terms of units
+4. The quarter that had the maximum sales in terms of units.
+
+   
 Hint : Reduction of one array into smaller arrays
